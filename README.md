@@ -15,10 +15,23 @@ Evaluating autonomous vehicles with controllability enables scalable testing in 
 ## **News**
 
 - [x] 2025.07: Paper accepted by ICCV 2025!
-- [x] 2025.10.20: Example annotations of Inter‑Drive released.
+- [x] 2025.10.20: Example annotations of [Inter‑Drive](DATASET.md) released.
 - [ ] 2025.11.07 | ETA: Initial version of Inter‑Drive inference code release.
 - [ ] 2025.11 | ETA: Inter‑Drive dataset release (delayed due to company IP review).
 
 Please stay tuned for further updates!
 
 
+
+
+## Citation
+If you find LangTraj useful, please consider giving us a star; and citing our paper with the following BibTeX entry.
+```BibTeX
+@InProceedings{Chang_2025_ICCV,
+    author    = {Chang, Wei-Jer and Zhan, Wei and Tomizuka, Masayoshi and Chandraker, Manmohan and Pittaluga, Francesco},
+    title     = {LANGTRAJ: Diffusion Model and Dataset for Language-Conditioned Trajectory Simulation},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {26622-26631}
+}
