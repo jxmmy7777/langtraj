@@ -2,9 +2,9 @@
 
 **Diffusion Model and Dataset for Language‑Conditioned Trajectory Simulation**
 
-This repository is the official implementation of **LangTraj: Diffusion Model and Dataset for Language‑Conditioned Trajectory Simulation**.
+This repository is the official implementation of [**LangTraj: Diffusion Model and Dataset for Language‑Conditioned Trajectory Simulation**.](https://langtraj.github.io/)
 
-> **LangTraj: Diffusion Model and Dataset for Language‑Conditioned Trajectory Simulation**
+<!-- > **LangTraj: Diffusion Model and Dataset for Language‑Conditioned Trajectory Simulation** -->
 
 > [Wei‑Jer Chang](https://scholar.google.com/citations?user=tF-OmYgAAAAJ&hl=en)1, [Wei Zhan](https://zhanwei.site/)1, [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/)1, [Manmohan Chandraker](https://cseweb.ucsd.edu/~mkchan)2,3, [Francesco Pittaluga](https://www.francescopittaluga.com/)2
 
@@ -14,10 +14,10 @@ Evaluating autonomous vehicles with controllability enables scalable testing in 
 
 ## **News**
 
-* [2025.07] Paper accepted by ICCV 2025!
-* [2025.10.20] Example annotations of Inter‑Drive released.
-* [2025.11.07 | ETA] Initial version of Inter‑Drive inference code release.
-* [2025.11 | ETA] Inter‑Drive dataset release (delayed due to company IP review).
+- [x] 2025.07: Paper accepted by ICCV 2025!
+- [x] 2025.10.20: Example annotations of Inter‑Drive released.
+- [ ] 2025.11.07 | ETA: Initial version of Inter‑Drive inference code release.
+- [ ] 2025.11 | ETA: Inter‑Drive dataset release (delayed due to company IP review).
 
 Please stay tuned for further updates!
 
