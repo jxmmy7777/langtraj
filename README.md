@@ -16,8 +16,7 @@ Evaluating autonomous vehicles with controllability enables scalable testing in 
 
 - [x] 2025.07: Paper accepted by ICCV 2025!
 - [x] 2025.10.20: Example annotations of [Inter‑Drive](DATASET.md) released.
-- [ ] 2026.1 | ETA: Initial version of Inter‑Drive inference code release.
-- [ ] 2026.1 | ETA: Inter‑Drive dataset release (delayed due to company IP review).
+- [ ] 2026 Full Inter-Drive dataset release (currently pending company IP review).
 
 Please stay tuned for further updates!
 
